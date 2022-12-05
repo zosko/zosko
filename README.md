@@ -10,5 +10,5 @@ Hardware projects:
 - [RFID/NFC Detector](https://github.com/zosko/rfid-nfc-detector)
 - [RC Low Pass Filter](https://github.com/zosko/rc-low-pass-filter)
 - [YMFC-32](https://github.com/zosko/YMFC-32)
-- [Simple RDFID](https://github.com/zosko/simple_rfid)
+- [Simple RFID](https://github.com/zosko/simple_rfid)
 - [MagSpoof](https://github.com/zosko/magspoof)
