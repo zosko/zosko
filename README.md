@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**zosko/zosko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hardware projects:
+- NoahFC (https://github.com/zosko/NoahFC-hardware)
+- NoahESC (https://github.com/zosko/NoahESC)
+- Buck Converter (https://github.com/zosko/BuckConvertor)
+- Lipo Charger (https://github.com/zosko/LipoCharger)
+- Grove Knock Knock (https://github.com/zosko/Grove-KnockKnock)
+- SliceCard PCB (https://github.com/zosko/SliceCardPCB)
+- Simple VTX (https://github.com/zosko/simpleTVtx)
+- RFID/NFC Detector (https://github.com/zosko/rfid-nfc-detector)
+- Pizza Fridge Magnet SMD (https://github.com/zosko/PizzaFridgeMagnetSMD)
+- Pizza Frigde Magnet (https://github.com/zosko/PizzaFridgeMagnet)
+- RC Low Pass Filter (https://github.com/zosko/rc-low-pass-filter)
+- YMFC-32 (https://github.com/zosko/YMFC-32)
+- Arduino RFID Emulator (https://github.com/zosko/arduinoRFID)
+- Simple RDFID (https://github.com/zosko/simple_rfid)
+- Mag Spoof (https://github.com/zosko/magspoof)
+- Fidget spinner (https://github.com/zosko/FidgetSpinner)
