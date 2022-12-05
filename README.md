@@ -2,7 +2,7 @@ Hardware projects:
 - [NoahFC](https://github.com/zosko/NoahFC-hardware)
 - [NoahESC](https://github.com/zosko/NoahESC)
 - [Pizza Fridge Magnet](https://github.com/zosko/PizzaFridgeMagnetSMD)
-- [SliceCard PCB](https://github.com/zosko/SliceCardPCB)
+- [SliceCard](https://github.com/zosko/SliceCardPCB)
 - [Buck Converter](https://github.com/zosko/BuckConvertor)
 - [Lipo Charger](https://github.com/zosko/LipoCharger)
 - [Grove Knock Knock](https://github.com/zosko/Grove-KnockKnock)
