@@ -1,14 +1,20 @@
-Hardware projects:
-- [NoahFC](https://github.com/zosko/NoahFC-hardware)
-- [NoahESC](https://github.com/zosko/NoahESC)
-- [Pizza Fridge Magnet](https://github.com/zosko/PizzaFridgeMagnetSMD)
-- [Slice Card](https://github.com/zosko/SliceCardPCB)
-- [Buck Converter](https://github.com/zosko/BuckConvertor)
-- [Lipo Charger](https://github.com/zosko/LipoCharger)
-- [Grove Knock Knock](https://github.com/zosko/Grove-KnockKnock)
-- [Simple VTX](https://github.com/zosko/simpleTVtx)
-- [RFID/NFC Detector](https://github.com/zosko/rfid-nfc-detector)
-- [RC Low Pass Filter](https://github.com/zosko/rc-low-pass-filter)
-- [YMFC-32](https://github.com/zosko/YMFC-32)
-- [Simple RFID](https://github.com/zosko/simple_rfid)
-- [MagSpoof](https://github.com/zosko/magspoof)
+<pre>
+╔═════════════════════╗
+║      HARDWARE       ║
+╠═════════════════════╣
+║ NoahFC              ║
+║ NoahESC             ║
+║ Pizza Fridge Magnet ║
+║ Slice Card          ║
+║ Buck Converter      ║
+║ Lipo Charger        ║
+║ Grove Knock Knock   ║
+║ Simple VTX          ║
+║ RFID/NFC Detector   ║
+║ RC Low Pass Filter  ║
+║ YMFC-32             ║
+║ Simple RFID         ║
+║ MagSpoof            ║
+║ Fidget Spinner      ║
+╚═════════════════════╝
+</pre>
